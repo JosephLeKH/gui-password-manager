@@ -38,7 +38,7 @@ This is a graphical user interface (GUI) password manager that allows users to g
 
 ## Screenshots
 
-Include screenshots here (optional).
+![App Screenshot](GUIPasswordManagerSC.png)
 
 ## Requirements
 
